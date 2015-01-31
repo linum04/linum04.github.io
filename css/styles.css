@@ -1,0 +1,32 @@
+img {
+	border: 2px solid black;
+}
+h1 {
+	color: #191970;
+}
+h2 {
+	border-bottom: 1px solid black;
+}
+a {
+	color: magenta;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+li {
+	text-align: center;
+	list-style-type: none;
+}
+body { 
+    background: white url("http://oceanleadership.org/wp-content/uploads/2013/04/small_waves_1920x1200.jpg") no-repeat fixed center; 
+}
+body { 
+	text-align: center;
+	 }
+
+img { img-align: center }
+body {
+    font-family: Verdana, Geneva, sans-serif;
+}
